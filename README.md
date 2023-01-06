@@ -1,2 +1,5 @@
-# GuessTheNumber
-Python program to guess the number for the maximum attempt of three times, if the user inputs a data besides an integer, it will output a string of text
+# Hi! I'm Alki
+i'm an informatics student aspiring to be a gamedev later in life
+
+i have a high logical thinking style and mindset
+i can teamwork if the situation needs me to
